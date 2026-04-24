@@ -64,8 +64,7 @@ description: |
 - 如果用户只提供故事名列表，直接进入分析
 
 **内置知识操作指引：**
-- 加载 `知识库/Skill知识包/short-scan_短篇市场数据.md`
-- 加载 `references/short-story-market-data.md`（跨平台真实数据）
+- 加载 `references/real-market-data.md`（跨平台写作差异对照）
 - 明确告知用户：「以下分析基于历史趋势数据，建议结合实时榜单验证。」
 
 **浏览器操控（高级模式）：**
@@ -198,9 +197,8 @@ description: |
 | 文件 | 何时加载 |
 |------|----------|
 | [references/real-market-data.md](references/real-market-data.md) | **核心参考**：跨平台写作差异对照表、各平台简介公式速查、题材爆款公式速查表、各平台写作特征 |
-| [references/short-story-market-data.md](references/short-story-market-data.md) | 需要跨平台真实数据对比时 |
 
-> 📚 深度参考：知识库/Skill知识包/short-scan_短篇市场数据.md
+> 📚 深度参考：知识库/Skill知识包/short-write_短篇写作框架.md
 
 ---
 

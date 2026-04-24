@@ -70,7 +70,6 @@ description: |
 - 如果用户只提供书名列表，直接进入分析
 
 **内置知识操作指引：**
-- 加载 `知识库/Skill知识包/long-scan_网文市场数据.md`
 - 加载 `references/genre-trends.md`
 - 明确告知用户：「以下分析基于历史趋势数据，建议结合实时榜单验证。」
 
@@ -205,7 +204,7 @@ description: |
 | [references/reader-profiling.md](references/reader-profiling.md) | 需要分析目标读者画像时 |
 | [references/genre-trends.md](references/genre-trends.md) | 查看当前题材趋势和切入建议时 |
 
-> 📚 深度参考：知识库/Skill知识包/long-scan_网文市场数据.md
+> 📚 深度参考：知识库/Skill知识包/long-write_长篇写作框架.md
 
 ---
 
