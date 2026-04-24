@@ -197,7 +197,7 @@ description: |
 
 | 文件 | 何时加载 |
 |------|----------|
-| [references/real-market-data.md](references/real-market-data.md) | **核心参考**：五平台题材分布、七猫20个子类精确分布、跨平台15维度写作差异对照表、简介公式速查、12大题材爆款公式速查表 |
+| [references/real-market-data.md](references/real-market-data.md) | **核心参考**：跨平台写作差异对照表、各平台简介公式速查、题材爆款公式速查表、各平台写作特征 |
 | [references/short-story-market-data.md](references/short-story-market-data.md) | 需要跨平台真实数据对比时 |
 
 > 📚 深度参考：知识库/Skill知识包/short-scan_短篇市场数据.md

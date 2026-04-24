@@ -226,7 +226,6 @@ description: |
 
 | 文件 | 何时加载 |
 |------|----------|
-| [references/platform-writing-patterns.md](references/platform-writing-patterns.md) | **核心参考**：跨平台写作模式大全（9种开头模式、17个题材公式、12种写作技巧、11类章尾钩子、男女频对比、各平台风格特征） |
 | [references/genre-writing-formulas.md](references/genre-writing-formulas.md) | **核心参考**：17大题材写作公式（复仇打脸/宅斗/虐恋/系统逆袭/轻喜剧/玄幻仙侠/年代重生/宫闱宅斗/现代悬疑/架空历史/假千金心声/离婚逆袭/总裁豪门深度/黑岩男女频/隐忍腹黑/追夫火葬场/年代重生医术），逐篇精读提炼 |
 | [references/zhihu-format.md](references/zhihu-format.md) | 写知乎盐言故事时，加载格式规范 |
 | [references/emotional-arc-templates.md](references/emotional-arc-templates.md) | 设计情绪曲线时，选择合适的弧形模板 |

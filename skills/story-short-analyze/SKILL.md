@@ -229,9 +229,8 @@ description: |
 | [references/hook-types.md](references/hook-types.md) | 分析钩子设计和章尾悬念时 |
 | [references/deconstruction-examples.md](references/deconstruction-examples.md) | 学习拆文方法时（3 个完整案例） |
 
-> **深度数据参考**：`../story-short-write/references/platform-writing-patterns.md`（跨平台写作模式大全，9种开头模式、17个题材公式、12种写作技巧）
-> **深度数据参考**：`../story-short-write/references/genre-writing-formulas.md`（12大题材写作公式，含玄幻仙侠/年代重生/宫闱宅斗/现代悬疑等新增题材）
-> **市场数据参考**：`../story-short-scan/references/real-market-data.md`（七猫20个子类精确分布、跨平台写作差异对照表、爆款公式速查表）
+> **深度数据参考**：`../story-short-write/references/genre-writing-formulas.md`（17大题材写作公式，含玄幻仙侠/年代重生/宫闱宅斗/现代悬疑等）
+> **市场数据参考**：`../story-short-scan/references/real-market-data.md`（跨平台写作差异对照表、爆款公式速查表）
 
 > 📚 深度参考：知识库/Skill知识包/short-analyze_短篇拆文方法论.md
 
